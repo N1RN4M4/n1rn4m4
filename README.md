@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **N1RN4M4/n1rn4m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
