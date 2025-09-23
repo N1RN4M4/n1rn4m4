@@ -3,9 +3,9 @@
 [![Header](assets/Github%20Header.png "Header")](assets/Github%20Header.png)
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+# Greetings! 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
+N1RN4M4 is my call name. I'm a software engineer based in Asia who likes to build system, learning new things and find lots of experience. You know, maybe like a jack of all trade, master of none (hopefully can master some fields one day haha)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
