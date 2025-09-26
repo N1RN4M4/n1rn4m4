@@ -14,10 +14,6 @@
         <img src="assets/8.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
         <img src="assets/9.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
         <img src="assets/10.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
-    </span>
-</p>
-<p align="center">
-    <span>
         <img src="assets/11.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
         <img src="assets/12.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
         <img src="assets/13.png" width="50px" style="background:white; border-radius:12px; padding:6px; margin:2px;" />
